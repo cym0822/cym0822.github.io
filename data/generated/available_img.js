@@ -1,0 +1,1 @@
+define({ availableImg: ["rathi_sentiment_2018","Beck2016Visual","naithani_realization_2023","cano_sentiment_2019","navanith_optimized_2022","boiy_machine_2009","kawade_sentiment_2017","srivastava_comparative_2022","choi_identifying_2005","ortigosa_sentiment_2014","shelke_support_2020"]});
